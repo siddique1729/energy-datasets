@@ -5,5 +5,5 @@ A collection of energy datasets
 
 * Data: Ecological Footprint, Hydropower Energy Consumption, and Economic Growth Nexus in the Top Six Hydropower Energy-Consuming Countries
 * Publisher: Mendeley
-* Dataset for use: [Dataset](docs/CONTRIBUTING.md)
+* Dataset for use: [Dataset](Electricity/Hydro-EF dataset.xlsx)
 * Source: [Link](https://data.mendeley.com/datasets/6cm67khddr/1)
