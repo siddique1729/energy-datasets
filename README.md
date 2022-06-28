@@ -1,5 +1,9 @@
 # energy-datasets
-A collection of energy datasets
+The repository contains a collection of energy datasets. The license for individual datasets are referred in the source links. Primarily, the datasets are collected from the repository of [DUKE ENERGY INITIATIVE](https://energy.duke.edu/research/energy-data/resources). Furthermore the following sources are used to accumulate the energy datasets.
+
+* [Mendeley](https://data.mendeley.com/)
+* World Bank
+* 
 
 # Environment
 
