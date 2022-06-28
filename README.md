@@ -5,6 +5,10 @@ The repository contains a collection of energy datasets. The license for individ
 * World Bank
 * 
 
+The goal of the project is to create an open source ground for domain integrated data science learning and application in the energy industry.
+
+
+
 # Environment
 
 * Data: Ecological Footprint, Hydropower Energy Consumption, and Economic Growth Nexus in the Top Six Hydropower Energy-Consuming Countries
