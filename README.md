@@ -28,7 +28,7 @@ The repository contains a collection of energy datasets. The license for individ
 #
 * Data: Climate Action for Urban Sustainability
 * Publisher: World Bank
-* Dataset for use: [Dataset](https://github.com/siddique1729/energy-datasets/blob/main/Electricity/Hydro-EF%20dataset.xlsx)
+* Dataset for use: [Dataset]()
 * Source: [Link](https://datacatalog.worldbank.org/search/dataset/0042029)
 * Description: A climate action planning tool to help cities determine where best to invest funding.
 #
