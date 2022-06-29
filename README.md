@@ -3,7 +3,18 @@ The repository contains a collection of energy datasets. The license for individ
 
 * [Mendeley](https://data.mendeley.com/)
 * [World Bank](https://datacatalog.worldbank.org/home)
-* 
+* [Environmental Protection Agency](epa.gov)
+* [Harvard Dataverse](https://dataverse.harvard.edu/)
+* [University of Michigan](https://www.icpsr.umich.edu/web/pages/)
+* [Datahub](https://datahub.io/)
+* [NASA](https://data.nasa.gov/)
+* [Global Energy Institute](https://www.globalenergyinstitute.org/)
+* [International Atomic Energy Agency](https://www.iaea.org/publications)
+* [Department of Energy](https://www.energy.gov/)
+* [Castle Labs](https://castlelab.princeton.edu/datasets/)
+* [U.S. Bureau of Labor Statistics](https://www.bls.gov/oes/current/naics4_221100.htm)
+* [EU Open Data Portal](https://data.europa.eu/data/datasets/)
+* [U.S. Energy Information Administration](https://www.eia.gov/)
 
 The goal of the project is to create an open source ground for domain integrated data science learning and application in the energy industry.
 
