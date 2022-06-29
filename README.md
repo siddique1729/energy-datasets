@@ -20,12 +20,17 @@ The repository contains a collection of energy datasets. The license for individ
 
 
 # Environment
-
 * Data: Ecological Footprint, Hydropower Energy Consumption, and Economic Growth Nexus in the Top Six Hydropower Energy-Consuming Countries
 * Publisher: Mendeley
 * Dataset for use: [Dataset](https://github.com/siddique1729/energy-datasets/blob/main/Electricity/Hydro-EF%20dataset.xlsx)
 * Source: [Link](https://data.mendeley.com/datasets/6cm67khddr/1)
 * Description: A dataset presenting the ecological impacts, economic growth, and energy consumption for hydropower in the top 6 hydropower consuming countries.
+#
+* Data: Climate Action for Urban Sustainability
+* Publisher: World Bank
+* Dataset for use: [Dataset](https://github.com/siddique1729/energy-datasets/blob/main/Electricity/Hydro-EF%20dataset.xlsx)
+* Source: [Link](https://datacatalog.worldbank.org/search/dataset/0042029)
+* Description: A climate action planning tool to help cities determine where best to invest funding.
 #
 
 # Renewable Energy
