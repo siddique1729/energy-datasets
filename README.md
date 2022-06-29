@@ -1,5 +1,5 @@
 # Energy Datasets
-The repository contains a collection of energy datasets. The license for individual datasets are referred in the source links. Primarily, the datasets are collected and directly sourced from the data bank of [DUKE ENERGY INITIATIVE](https://energy.duke.edu/research/energy-data/resources). Furthermore the following sources are used to accumulate additional energy datasets.
+The repository contains a collection of energy datasets. The license for individual datasets are referred in the source links. Primarily, the datasets are collected and directly sourced from the data bank of [DUKE ENERGY INITIATIVE](https://energy.duke.edu/research/energy-data/resources). Furthermore the following sources are used to accumulate additional energy datasets. The goal of the project is to create an open source ground for domain integrated data science learning and application in the energy industry.
 
 * [Mendeley](https://data.mendeley.com/)
 * [World Bank](https://datacatalog.worldbank.org/home)
@@ -16,7 +16,6 @@ The repository contains a collection of energy datasets. The license for individ
 * [EU Open Data Portal](https://data.europa.eu/data/datasets/)
 * [U.S. Energy Information Administration](https://www.eia.gov/)
 
-The goal of the project is to create an open source ground for domain integrated data science learning and application in the energy industry.
 
 
 
